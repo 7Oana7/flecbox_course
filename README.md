@@ -1,1 +1,1 @@
-# flecbox_course
+# flexbox_course
